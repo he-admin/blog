@@ -7,7 +7,7 @@ module.exports = {
       {text: '首页', link: '/'},
       {text: '前端体系', link: '/2.note/'},
       {text: '其他', link: '/other'},
-      {text: 'GitHub', link: 'https://google.com'},
+      {text: 'GitHub', link: 'https://github.com/he-admin/blog'},
     ],
     sidebar: {
       "/2.note": [
